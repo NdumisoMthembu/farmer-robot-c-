@@ -1,0 +1,6 @@
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Farm-Walker\bin\Debug\Farm-Walker.exe.config
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Farm-Walker\bin\Debug\Farm-Walker.exe
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Farm-Walker\bin\Debug\Farm-Walker.pdb
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Farm-Walker\obj\Debug\Farm-Walker.csprojResolveAssemblyReference.cache
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Farm-Walker\obj\Debug\Farm-Walker.exe
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Farm-Walker\obj\Debug\Farm-Walker.pdb

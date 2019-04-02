@@ -1,0 +1,7 @@
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\bin\Debug\Robot.Test.dll
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\bin\Debug\Robot.Test.pdb
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\bin\Debug\Farm-Walker.exe
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\bin\Debug\Farm-Walker.pdb
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\obj\Debug\Robot.Test.csprojResolveAssemblyReference.cache
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\obj\Debug\Robot.Test.dll
+c:\users\bbdnet1783\documents\visual studio 2012\Projects\Farm-Walker\Robot.Test\obj\Debug\Robot.Test.pdb
